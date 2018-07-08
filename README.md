@@ -9,7 +9,7 @@
 
 ## Use
 
-Gives the user to save and transfer notes quickly with real-time updatable content pushed out to any connected clients.
+Save and transfer notes quickly with real-time updatable content pushed out to any connected clients.
 
 ## Short Link
 
