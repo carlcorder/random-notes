@@ -13,4 +13,4 @@ Save and transfer notes quickly with real-time updatable content pushed out to a
 
 ## Short Link
 
-`http://bit.do/random-notes`
+`bit.ly/rand-notes`
